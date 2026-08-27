@@ -1,4 +1,3 @@
-```markdown
 # 🎬 CSB Video Compressor Pro
 
 <div align="center">
