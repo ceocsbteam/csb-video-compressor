@@ -54,7 +54,7 @@ pip install rich
 Step 3: Download the Tool
 
 ```bash
-git clone https://github.com/yourusername/csb-video-compressor.git
+git clone https://github.com/ceocsbteam/csb-video-compressor.git
 cd csb-video-compressor
 ```
 
